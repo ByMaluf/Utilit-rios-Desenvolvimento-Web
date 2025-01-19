@@ -5,3 +5,14 @@ Repositório destinado a organização de ferramentas, bibliotecas, APIS, framew
 https://www.reactbits.dev/
 
 https://flowbite.com/
+
+
+Fontes Diversas: 
+
+https://www.1001fonts.com/
+
+https://www.1001freefonts.com/
+
+https://www.freefonts.io/
+
+https://www.dafont.com/

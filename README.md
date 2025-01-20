@@ -22,3 +22,7 @@ https://typodermicfonts.com/
 Animar Código Publicação:
 
 https://www.animate-code.com/
+
+React Loading:
+
+https://github.com/dvtng/react-loading-skeleton

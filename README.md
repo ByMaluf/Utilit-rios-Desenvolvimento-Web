@@ -18,3 +18,7 @@ https://www.freefonts.io/
 https://www.dafont.com/
 
 https://typodermicfonts.com/
+
+Animar Código Publicação:
+
+https://www.animate-code.com/

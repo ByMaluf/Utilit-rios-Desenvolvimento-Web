@@ -74,3 +74,7 @@ API's
 Documentação
 
 https://component-party.dev/
+
+Utilitários FrontEnd
+
+https://uiverse.io/

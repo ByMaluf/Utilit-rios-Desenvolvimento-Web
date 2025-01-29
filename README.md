@@ -78,3 +78,9 @@ https://component-party.dev/
 Utilitários FrontEnd
 
 https://uiverse.io/
+
+FrameWorks CSS
+
+https://github.com/nostalgic-css/NES.css
+
+https://nostalgic-css.github.io/NES.css/

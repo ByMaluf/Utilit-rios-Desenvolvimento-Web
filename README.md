@@ -20,6 +20,11 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 
 ---
 
+## 🎨 Geradores de Gradientes  
+- [WebGradients](https://webgradients.com/) - Biblioteca de gradientes prontos para uso em projetos Web.  
+
+---
+
 ## 🎥 Animação de Código e Publicação  
 - [Animate Code](https://www.animate-code.com/) - Gera animações para snippets de código.  
 

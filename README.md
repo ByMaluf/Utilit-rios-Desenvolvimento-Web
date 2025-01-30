@@ -36,6 +36,11 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 
 ---
 
+## 🏆 Geração de Conteúdo Fake para Redes Sociais  
+- [FakedIn](https://fakedin-app.netlify.app/) - Criado por Ram Maheshwari, permite criar posts falsos do LinkedIn para uso em redes sociais e memes.  
+
+---
+
 ## 🌐 APIs Úteis para Desenvolvimento Web  
 
 | #  | API | Link |

@@ -7,7 +7,8 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 ## 🔧 Ferramentas para Desenvolvimento Web  
 - [ReactBits](https://www.reactbits.dev/) - Conjunto de snippets e utilitários para React.  
 - [Flowbite](https://flowbite.com/) - Componentes UI baseados em Tailwind CSS.  
-- [Brandfetch](https://brandfetch.com/) - Busca e coleta automática de identidades visuais de marcas.  
+- [Brandfetch](https://brandfetch.com/) - Busca e coleta automática de identidades visuais de marcas.
+- [React Haiku](https://www.reacthaiku.dev/) - Coleção de hooks e utilitários leves para React.  
 
 ---
 

@@ -83,5 +83,8 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 - 🎮 [NES.css Demo](https://nostalgic-css.github.io/NES.css/)  
 
 ---
+## Outra fontes
+- [Git](https://github.com/yurimutti/recursos-frontend?tab=readme-ov-file#emoji)
+---
 
 > **Sugestões ou contribuições?** Sinta-se à vontade para abrir um Pull Request ou Issue. 🚀  

@@ -83,6 +83,12 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 - 🎮 [NES.css Demo](https://nostalgic-css.github.io/NES.css/)  
 
 ---
+
+## 🔤 Transpiladores e Compiladores  
+- [Babel](https://babeljs.io/) - Transpilador JavaScript que permite usar as funcionalidades mais recentes da linguagem em navegadores mais antigos.  
+
+---
+
 ## Outra fontes
 - [Git](https://github.com/yurimutti/recursos-frontend?tab=readme-ov-file#emoji)
 ---

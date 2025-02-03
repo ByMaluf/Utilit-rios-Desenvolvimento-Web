@@ -81,6 +81,7 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 - [CSS Glass](https://css.glass/) - Gerador de efeitos de vidro fosco (frosted glass) usando CSS.  
 - [Blobmaker](https://www.blobmaker.app/) - Ferramenta para gerar formas orgânicas (blobs) SVG personalizáveis.  
 - [Get Waves](https://getwaves.io/) - Gerador de ondas SVG para usar em layouts modernos.
+- [Cursify](https://cursify.vercel.app/) - Ferramenta para personalizar e criar cursores CSS de forma intuitiva.
 
 ---
 

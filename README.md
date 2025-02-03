@@ -23,11 +23,13 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 
 ## 🎨 Geradores de Gradientes  
 - [WebGradients](https://webgradients.com/) - Biblioteca de gradientes prontos para uso em projetos Web.  
+- [CSS Gradient](https://cssgradient.io/) - Gerador de gradientes CSS intuitivo para projetos web.
 
 ---
 
 ## 🎥 Animação de Código e Publicação  
 - [Animate Code](https://www.animate-code.com/) - Gera animações para snippets de código.  
+- [Keyframes](https://keyframes.app/) - Criação de animações CSS personalizadas com facilidade.
 
 ---
 
@@ -75,6 +77,10 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 
 ## 🛠️ Utilitários Front-End  
 - [Uiverse](https://uiverse.io/) - Biblioteca de botões e componentes interativos.  
+- [Clippy](https://bennettfeely.com/clippy/) - Ferramenta para gerar recortes complexos usando a propriedade `clip-path` do CSS.  
+- [CSS Glass](https://css.glass/) - Gerador de efeitos de vidro fosco (frosted glass) usando CSS.  
+- [Blobmaker](https://www.blobmaker.app/) - Ferramenta para gerar formas orgânicas (blobs) SVG personalizáveis.  
+- [Get Waves](https://getwaves.io/) - Gerador de ondas SVG para usar em layouts modernos.
 
 ---
 
@@ -89,8 +95,14 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 
 ---
 
-## Outra fontes
-- [Git](https://github.com/yurimutti/recursos-frontend?tab=readme-ov-file#emoji)
+## 📐 Layouts e Grids  
+- [LayoutIt Grid](https://grid.layoutit.com/) - Ferramenta visual para criar layouts CSS Grid de forma intuitiva.
+
+---
+
+## Outra fontes  
+- [Git](https://github.com/yurimutti/recursos-frontend?tab=readme-ov-file#emoji)  
+
 ---
 
 > **Sugestões ou contribuições?** Sinta-se à vontade para abrir um Pull Request ou Issue. 🚀  

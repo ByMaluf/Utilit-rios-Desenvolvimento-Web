@@ -12,6 +12,11 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 
 ---
 
+## 📊 Ferramentas para Apresentações  
+- [Bespoke.js](https://markdalgleish.com/projects/bespoke.js/) - Framework leve e flexível para criar apresentações personalizadas com JavaScript.  
+
+---
+
 ## 🔤 Fontes Gratuitas  
 - [1001 Fonts](https://www.1001fonts.com/)  
 - [1001 Free Fonts](https://www.1001freefonts.com/)  

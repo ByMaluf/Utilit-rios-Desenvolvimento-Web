@@ -88,7 +88,8 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 - [Get Waves](https://getwaves.io/) - Gerador de ondas SVG para usar em layouts modernos.
 - [Cursify](https://cursify.vercel.app/) - Ferramenta para personalizar e criar cursores CSS de forma intuitiva.
 - [UV Canvas](https://uvcanvas.com/) - Ferramenta online para manipulação visual de UV Mapping e gráficos vetoriais.
-- [CVA (Class Variance Authority)](https://cva.style/docs) - Biblioteca para gerenciamento de variantes e classes CSS de forma organizada, com suporte para Tailwind CSS e TypeScript.    
+- [CVA (Class Variance Authority)](https://cva.style/docs) - Biblioteca para gerenciamento de variantes e classes CSS de forma organizada, com suporte para Tailwind CSS e TypeScript.
+- [HyperUI](https://www.hyperui.dev/) - Coleção de componentes UI gratuitos e prontos para Tailwind CSS, facilitando o desenvolvimento de interfaces modernas. 
 ---
 
 ## 🎨 Frameworks CSS  

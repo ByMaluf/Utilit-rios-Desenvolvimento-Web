@@ -87,7 +87,7 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 - [Blobmaker](https://www.blobmaker.app/) - Ferramenta para gerar formas orgânicas (blobs) SVG personalizáveis.  
 - [Get Waves](https://getwaves.io/) - Gerador de ondas SVG para usar em layouts modernos.
 - [Cursify](https://cursify.vercel.app/) - Ferramenta para personalizar e criar cursores CSS de forma intuitiva.
-
+- [UV Canvas](https://uvcanvas.com/) - Ferramenta online para manipulação visual de UV Mapping e gráficos vetoriais.  
 ---
 
 ## 🎨 Frameworks CSS  

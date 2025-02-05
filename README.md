@@ -29,12 +29,13 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 ## 🎨 Geradores de Gradientes  
 - [WebGradients](https://webgradients.com/) - Biblioteca de gradientes prontos para uso em projetos Web.  
 - [CSS Gradient](https://cssgradient.io/) - Gerador de gradientes CSS intuitivo para projetos web.
+- [Image to Mesh Gradient](https://photogradient.com/) - Criador de gradientes online.  
 
 ---
 
 ## 🎥 Animação de Código e Publicação  
 - [Animate Code](https://www.animate-code.com/) - Gera animações para snippets de código.  
-- [Keyframes](https://keyframes.app/) - Criação de animações CSS personalizadas com facilidade.
+- [Keyframes](https://keyframes.app/) - Criação de animações CSS personalizadas com facilidade.  
 
 ---
 
@@ -90,10 +91,9 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 - [Cursify](https://cursify.vercel.app/) - Ferramenta para personalizar e criar cursores CSS de forma intuitiva.
 - [UV Canvas](https://uvcanvas.com/) - Ferramenta online para manipulação visual de UV Mapping e gráficos vetoriais.
 - [CVA (Class Variance Authority)](https://cva.style/docs) - Biblioteca para gerenciamento de variantes e classes CSS de forma organizada, com suporte para Tailwind CSS e TypeScript.
-- [HyperUI](https://www.hyperui.dev/) - Coleção de componentes UI gratuitos e prontos para Tailwind CSS, facilitando o desenvolvimento de interfaces modernas.
-- [Flexbox Labs](https://flexboxlabs.netlify.app/) - Ferramenta para experimentar e visualizar layouts usando Flexbox de forma interativa.
-- [HyperUI](https://www.hyperui.dev/) - Coleção de componentes UI gratuitos e prontos para Tailwind CSS, facilitando o desenvolvimento de interfaces modernas.
-- 
+- [HyperUI](https://www.hyperui.dev/) - Coleção de componentes UI gratuitos e prontos para Tailwind CSS.
+- [Flexbox Labs](https://flexboxlabs.netlify.app/) - Ferramenta para experimentar e visualizar layouts usando Flexbox.
+
 ---
 
 ## 🎨 Frameworks CSS  
@@ -112,9 +112,29 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 
 ---
 
-## Outra fontes  
-- [Git](https://github.com/yurimutti/recursos-frontend?tab=readme-ov-file#emoji)  
+## 🎯 Galerias de Inspiração e Design  
+- [Design Sphere](https://lnkd.in/dEzf6Ahg) - Galeria de podcasts sobre design.  
+- [Logo System](https://logosystem.co/) - Galeria com +1.000 logotipos.  
+- [Landing Pages Explained](https://lnkd.in/d7M7eFtF) - Estudos de desempenho em landing pages.  
+- [Shortcuts](https://shortcuts.design/) - Guias de atalhos em ferramentas.  
+- [60fps](https://lnkd.in/dMS6qs43) - Exemplos de animações mobile em 60fps.  
+- [Fontanello](https://fontanello.app/) - Extensão para identificar tipografias.  
+- [Lapa Ninja](https://www.lapa.ninja/) - +7.000 landing pages de exemplo.  
+- [Morflax Things](https://lnkd.in/dPFf2TvN) - Criador de mockups em 3D.  
+- [Web Interactions Gallery](https://lnkd.in/dfuFc2NU) - Galeria de animações web (UI).  
+- [Typo/graphic posters](https://lnkd.in/dBhStRB2) - Galeria de posters disruptivos.  
+- [Colour Contrast Checker](https://colourcontrast.cc/) - Verificador de contraste em cores.  
+- [Pafolios](https://pafolios.com/) - Galeria de portfolios criativos.  
+- [Motion (Zajno)](https://motion.zajno.com/) - Princípios do motion design.  
+- [Phosphor Icons](https://phosphoricons.com) - Família de ícones para interfaces.  
+- [Coolshapes](https://coolshap.es/) - Formas abstratas para copiar.  
+- [H1 Gallery](https://h1gallery.com/) - Acervo com boas headlines em sites.  
+- [Lummi](https://www.lummi.ai/) - Banco de imagens criativo.  
+- [Steep](https://www.steep.design/) - Galeria de stories criativos.  
+- [Colors & Fonts](https://lnkd.in/d__FJaai) - Todas as ferramentas para fontes.  
+- [Trending Design](https://trending.design/) - As melhores inspirações da web.  
+- [Victor Wendt](https://lnkd.in/d3ADnBnY) - O cara que te ensina content design.  
 
 ---
 
-> **Sugestões ou contribuições?** Sinta-se à vontade para abrir um Pull Request ou Issue. 🚀  
+> **Sugestões ou contribuições?** Sinta-se à vontade para abrir um Pull Request ou Issue. 🚀

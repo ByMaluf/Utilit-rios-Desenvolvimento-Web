@@ -76,7 +76,8 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 ---
 
 ## 📚 Documentação  
-- [Component Party](https://component-party.dev/) - Comparação de componentes UI entre frameworks.  
+- [Component Party](https://component-party.dev/) - Comparação de componentes UI entre frameworks.
+- [Web Skills](https://andreasbm.github.io/web-skills/) - Mapa interativo de habilidades para desenvolvimento web, abrangendo tópicos como HTML, CSS, JavaScript, frameworks e muito mais.  
 
 ---
 
@@ -90,7 +91,9 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 - [UV Canvas](https://uvcanvas.com/) - Ferramenta online para manipulação visual de UV Mapping e gráficos vetoriais.
 - [CVA (Class Variance Authority)](https://cva.style/docs) - Biblioteca para gerenciamento de variantes e classes CSS de forma organizada, com suporte para Tailwind CSS e TypeScript.
 - [HyperUI](https://www.hyperui.dev/) - Coleção de componentes UI gratuitos e prontos para Tailwind CSS, facilitando o desenvolvimento de interfaces modernas.
-- [Flexbox Labs](https://flexboxlabs.netlify.app/) - Ferramenta para experimentar e visualizar layouts usando Flexbox de forma interativa.  
+- [Flexbox Labs](https://flexboxlabs.netlify.app/) - Ferramenta para experimentar e visualizar layouts usando Flexbox de forma interativa.
+- [HyperUI](https://www.hyperui.dev/) - Coleção de componentes UI gratuitos e prontos para Tailwind CSS, facilitando o desenvolvimento de interfaces modernas.
+- 
 ---
 
 ## 🎨 Frameworks CSS  

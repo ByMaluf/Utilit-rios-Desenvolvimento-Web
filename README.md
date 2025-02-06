@@ -137,4 +137,9 @@ Repositório destinado à organização de ferramentas, bibliotecas, APIs e fram
 
 ---
 
+## 🔣 Convenções de Commits  
+- [Gitmoji](https://github.com/carloscuesta/gitmoji?tab=readme-ov-file) - Guia de emojis para padronizar e melhorar a semântica dos commits no Git.  
+
+---
+
 > **Sugestões ou contribuições?** Sinta-se à vontade para abrir um Pull Request ou Issue. 🚀
